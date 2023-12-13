@@ -1,3 +1,5 @@
+// 변수에 저장된 값 출력
+
 #include <stdio.h>
 
 void main()
