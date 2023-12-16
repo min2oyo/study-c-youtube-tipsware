@@ -4,8 +4,8 @@
 
 void main()
 {
-    char data = -1; // 1바이트
+	char data = -1; // 1바이트
 
-    printf("%d\n", data); // -1 // 4바이트
-    printf("%u\n", data); // 4294967295 // 4바이트
+	printf("%d\n", data); // -1 // 4바이트
+	printf("%u\n", data); // 4294967295 // 4바이트
 }

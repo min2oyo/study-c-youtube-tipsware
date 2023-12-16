@@ -4,9 +4,9 @@
 
 void main()
 {
-    int data = 7;
+	int data = 7;
 
-    printf("[%5d]\n", data);  // [    7]
-    printf("[%05d]\n", data); // [00007]
-    printf("[%-5d]\n", data); // [7    ]
+	printf("[%5d]\n", data);	// [    7]
+	printf("[%05d]\n", data); // [00007]
+	printf("[%-5d]\n", data); // [7    ]
 }

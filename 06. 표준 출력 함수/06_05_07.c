@@ -4,11 +4,11 @@
 
 void main()
 {
-    int data1 = 10;   // 10진수
-    int data2 = 010;  // 8진수
-    int data3 = 0x10; // 16진수
+	int data1 = 10;		// 10진수
+	int data2 = 010;	// 8진수
+	int data3 = 0x10; // 16진수
 
-    printf("%x\n", data1); // a     // 16진수
-    printf("%d\n", data2); // 8     // 10진수
-    printf("%o\n", data3); // 20    // 8진수
+	printf("%x\n", data1); // a     // 16진수
+	printf("%d\n", data2); // 8     // 10진수
+	printf("%o\n", data3); // 20    // 8진수
 }

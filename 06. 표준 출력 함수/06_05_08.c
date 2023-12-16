@@ -4,9 +4,9 @@
 
 void main()
 {
-    float data = 12.34f;
+	float data = 12.34f;
 
-    printf("%f\n", data); // 12.340000
-    printf("%e\n", data); // 1.234000e+01
-    printf("%E\n", data); // 1.234000E+01
+	printf("%f\n", data); // 12.340000
+	printf("%e\n", data); // 1.234000e+01
+	printf("%E\n", data); // 1.234000E+01
 }

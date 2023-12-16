@@ -4,10 +4,10 @@
 
 void main()
 {
-    double data = 3.141592;
+	double data = 3.141592;
 
-    printf("[%f]\n", data);     // [3.141592]
-    printf("[%.4f]\n", data);   // [3.1416]
-    printf("[%8.4f]\n", data);  // [  3.1416]
-    printf("[%-8.4f]\n", data); // [3.1416  ]
+	printf("[%f]\n", data);			// [3.141592]
+	printf("[%.4f]\n", data);		// [3.1416]
+	printf("[%8.4f]\n", data);	// [  3.1416]
+	printf("[%-8.4f]\n", data); // [3.1416  ]
 }
