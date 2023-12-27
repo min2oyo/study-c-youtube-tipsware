@@ -20,6 +20,7 @@ void mission3()
 {
 	int tips = 0;
 	Test(&tips);
+
 	printf("3: %d\n", tips); // 5
 }
 
