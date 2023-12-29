@@ -117,8 +117,8 @@ mission4()
 // base
 void main()
 {
-	// mission1();
-	// mission2();
-	// mission3();
+	mission1();
+	mission2();
+	mission3();
 	mission4();
 }
